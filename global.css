@@ -1,0 +1,21 @@
+.card{
+    border: 10px solid red;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
+.mainDiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+.page{
+    background-color: rgb(50, 128, 63);
+}
